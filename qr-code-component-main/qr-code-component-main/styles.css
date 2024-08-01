@@ -32,16 +32,16 @@
       width: 300px;
       height: 450px;
       margin: auto;
-      gap: 20px;
+      gap: 25px;
       box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     }
 
     .card-content {
+      width: 80%;
       display: flex;
       flex-direction: column;
       gap: 20px;
       text-align: center;
-      padding: 0 20px;
     }
 
     .attribution {
@@ -53,7 +53,7 @@
       font-size: 20px;
       font-weight: 700;
       color: #313131;
-      letter-spacing: -1px;
+      letter-spacing: -0.5px;
     }
     
     .description {
